@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+geopandas
+shapely
+sqlalchemy
+geoalchemy2
+psycopg2-binary
+orjson
+matplotlib
+osmnx
+networkx
+pandas
+numpy
+requests
+scikit-learn  
